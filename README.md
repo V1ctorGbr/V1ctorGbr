@@ -8,13 +8,18 @@
   💻 Backend Developer | Java • Spring Boot • Node.js
 </p>
 
+<p align="center">
+  👀 Visitantes do perfil:  
+  <img src="https://komarev.com/ghpvc/?username=V1ctorGbr&label=Profile%20Views&color=00d4ff&style=flat" />
+</p>
+
 ---
 
 ## 🚀 Sobre mim
 
-💡 Estudante de Engenharia de Software focado em desenvolvimento backend.
-💻 Experiência com criação de APIs REST utilizando Java (Spring Boot) e Node.js.
-📚 Aplicando boas práticas como arquitetura em camadas, autenticação e persistência de dados.
+💡 Estudante de Engenharia de Software focado em desenvolvimento backend.  
+💻 Experiência com criação de APIs REST utilizando Java (Spring Boot) e Node.js.  
+📚 Aplicando boas práticas como arquitetura em camadas, autenticação e persistência de dados.  
 
 🔧 Desenvolvendo projetos práticos com foco em evolução profissional e preparação para o mercado.
 
@@ -42,10 +47,9 @@
 ### ⏱️ TimeOn – Sistema de Agendamento
 
 📌 Backend desenvolvido com:
-
-* APIs REST
-* Arquitetura em camadas
-* Persistência com JPA/Hibernate
+- APIs REST
+- Arquitetura em camadas
+- Persistência com JPA/Hibernate
 
 👉 **Acesse o projeto:** (coloque seu link aqui)
 
@@ -56,29 +60,25 @@
 📌 Backend para gerenciamento de finanças pessoais.
 
 🔐 Funcionalidades:
-
-* Autenticação com JWT
-* Proteção de rotas
+- Autenticação com JWT
+- Proteção de rotas
 
 💰 Transações:
-
-* Cadastro de receitas e despesas
-* Edição e exclusão
-* Organização por categorias
+- Cadastro de receitas e despesas
+- Edição e exclusão
+- Organização por categorias
 
 📊 Consultas:
-
-* Filtros por data, tipo e categoria
-* Listagem por período
-* Cálculo automático de saldo
+- Filtros por data, tipo e categoria
+- Listagem por período
+- Cálculo automático de saldo
 
 🛠️ Tecnologias:
-
-* Node.js
-* Express.js
-* SQLite
-* JWT
-* Swagger
+- Node.js
+- Express.js
+- SQLite
+- JWT
+- Swagger
 
 👉 **Acesse o projeto:** (coloque seu link aqui)
 
@@ -87,12 +87,11 @@
 ## 📈 Em evolução
 
 🚀 Atualmente estudando:
-
-* Spring Security
-* JWT avançado (refresh token)
-* Boas práticas de arquitetura
-* Integração backend + frontend
-* Segurança em APIs
+- Spring Security
+- JWT avançado (refresh token)
+- Boas práticas de arquitetura
+- Integração backend + frontend
+- Segurança em APIs
 
 ---
 
@@ -124,7 +123,7 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="(seu link do linkedin)">
+  <a href="https://www.linkedin.com/in/victor-gabriel-353a55296/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/V1ctorGbr">
