@@ -94,31 +94,10 @@
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=V1ctorGbr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ctorGbr&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🔥 Streak de Contribuições
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=V1ctorGbr&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribuições em movimento
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V1ctorGbr/V1ctorGbr/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V1ctorGbr/V1ctorGbr/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/V1ctorGbr/V1ctorGbr/output/github-contribution-grid-snake.svg"/>
-  </picture>
 </p>
 
 ---
