@@ -105,6 +105,22 @@
 
 ---
 
+## 🔥 Streak de Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=V1ctorGbr&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribuições em movimento
+
+<p align="center">
+  <img src="https://github.com/V1ctorGbr/V1ctorGbr/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
 ## 📫 Contato
 
 <p align="center">
