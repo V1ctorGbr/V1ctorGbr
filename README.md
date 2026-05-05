@@ -1,49 +1,79 @@
-<h2 align="center">Hi there 👋, I'm Victor Gabriel</h2>
+# 👋 Olá, eu sou o Victor Gabriel
 
 <p align="center">
-  🎓 Estudante de Engenharia de Software • 💻 Backend Developer • 🚀 Estágio / Júnior
+  🎓 Engenharia de Software • 💻 Backend Developer • 🚀 Estágio / Júnior
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
-Sou estudante de **Engenharia de Software** com foco em **desenvolvimento backend**, utilizando **Java e Spring Boot**.  
-Desenvolvo projetos práticos aplicando conceitos como **APIs REST**, **arquitetura em camadas**, **JPA/Hibernate** e **banco de dados SQL**.
+## 🚀 Sobre mim
 
-Atualmente trabalho no projeto **TimeOn**, um sistema de agendamento criado para consolidar meus conhecimentos em backend e boas práticas de desenvolvimento.
+💡 Estudante de Engenharia de Software focado em desenvolvimento backend.  
+💻 Experiência com criação de APIs REST utilizando Java e Spring Boot.  
+📚 Aplicando boas práticas como arquitetura em camadas e persistência com JPA/Hibernate.  
 
-Tenho interesse em aprender continuamente, colaborar em equipe e evoluir profissionalmente na área de desenvolvimento de software.
+🔧 Atualmente desenvolvendo o projeto **TimeOn**, um sistema de agendamento.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-<p>
-  🔹 Java <br>
-  🔹 Spring Boot <br>
-  🔹 API REST <br>
-  🔹 JPA / Hibernate <br>
-  🔹 SQL <br>
-  🔹 Git & GitHub
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20REST-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA%20Hibernate-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git%20&%20GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
 ## 📌 Projeto em Destaque
-### ⏱️ TimeOn – Sistema de Agendamento
-Backend desenvolvido em **Java com Spring Boot**, focado em **APIs REST** e **organização em camadas**.
 
-👉 Repositório: <em>adicione o link aqui</em>
+### ⏱️ TimeOn – Sistema de Agendamento
+
+📌 Backend desenvolvido com:
+- APIs REST
+- Arquitetura em camadas
+- Banco de dados com JPA
+
+👉 **Acesse o projeto:** (coloque seu link aqui)
 
 ---
 
-## 📫 Onde me encontrar
-<p>
-  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/victor-gabriel-353a55296/">Victor Gabriel</a><br>
-  💻 <strong>GitHub:</strong> <a href="https://github.com/V1ctorGbr">V1ctorGbr</a>
+## 📈 Em evolução
+
+🚀 Atualmente estudando:
+- Spring Security
+- JWT (autenticação)
+- Boas práticas de arquitetura
+- Integração com frontend
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=V1ctorGbr&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ctorGbr&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="(seu link do linkedin)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/V1ctorGbr">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-⭐ Sempre aberto a aprender, evoluir e contribuir com novos projetos.
+⭐ Sempre buscando evolução e novos desafios!
 </p>
